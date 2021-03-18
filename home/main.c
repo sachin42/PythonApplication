@@ -3,12 +3,7 @@
 
 int main()
 {
-    printf("    /\n");
-    printf("   /\n");
-    printf("  /\n");
-    printf(" /\n");
-    printf("/\n");
-    printf("o\n");
+    printf("flag/n");
 
     return 0;
 }
