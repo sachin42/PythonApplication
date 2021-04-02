@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
+int main ()
 {
-    printf("flag/n");
-
+    printf("\n Welcome to the world of C");
     return 0;
+
 }
